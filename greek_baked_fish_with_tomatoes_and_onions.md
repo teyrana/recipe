@@ -1,6 +1,6 @@
 Greek Baked Fish With Tomatoes and Onions
 
-If you have traveled in the Greek Islands, chances are you have had this fish. Use a white-fleshed fish that will stand up to the robust flavors in the tomato sauce. From the Monterey Bay Aquarium’s list of best choices I recommend Pacific cod or halibut, black cod or striped bass. From the “Good Alternatives” list I recommend Mahi Mahi from United States waters.
+If you have traveled in the Greek Islands, chances are you have had this fish. Use a white-fleshed fish that will stand up to the robust flavors in the tomato sauce. From the Monterey Bay Aquariums list of best choices I recommend Pacific cod or halibut, black cod or striped bass. From the Good Alternatives list I recommend Mahi Mahi from United States waters.
 
 
 Serves: 4
@@ -11,7 +11,7 @@ Salt and freshly ground pepper
 Juice of 1 large lemon
 2 tablespoons extra virgin olive oil
 1 pound onions, cut in half lengthwise and then sliced thinly across the grain
-2 large garlic cloves, minced or puréed
+2 large garlic cloves, minced or pured
 1 28-ounce can chopped tomatoes with juice (in summer use 2 pounds grated or peeled seeded ripe tomatoes)
 1/8 teaspoon sugar
 1 teaspoon sweet paprika

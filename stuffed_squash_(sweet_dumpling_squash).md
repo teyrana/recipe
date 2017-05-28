@@ -21,8 +21,8 @@ Place squash face-down in an oiled baking dish. Bake until tender when pierced w
 a knife, about 30 minutes. Remove squash from oven but keep oven on.
 
 Prepare the stuffing while the squash is baking. Heat oil in a medium saucepan over 
-medium heat. Add onions and sauté until onion is translucent. Add pistachios, dates, 
-lemon zest, and cinnamon and sauté for another minute. Stir in the cooked quinoa and 
+medium heat. Add onions and saut until onion is translucent. Add pistachios, dates, 
+lemon zest, and cinnamon and saut for another minute. Stir in the cooked quinoa and 
 season to taste with salt and pepper.
 
 Turn the squash upright in the baking dish and stuff with the quinoa mixture.

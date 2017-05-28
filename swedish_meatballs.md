@@ -13,7 +13,7 @@ Swedish Meatballs
         [ Option 2:
 - 14 tsp dry mustard
 - 18 t ground nutmeg ]
-By hand or on medium speed with an electric mixture, thoroughly blend the ground meat, filler, salt and pepper, and other flavorings.  Beat until very well mixed.   Form into balls about 3/4"-1 1/2"  in diameter: do this by hand, or use a tablespoon-sized cookie scoop, or a melon baller. Makes 30-150 meatballs depending on how large they are.  Serves 6-8, more on the smörgåsbord.
+By hand or on medium speed with an electric mixture, thoroughly blend the ground meat, filler, salt and pepper, and other flavorings.  Beat until very well mixed.   Form into balls about 3/4"-1 1/2"  in diameter: do this by hand, or use a tablespoon-sized cookie scoop, or a melon baller. Makes 30-150 meatballs depending on how large they are.  Serves 6-8, more on the smrgsbord.
 
 Cooking methods:
 

@@ -16,7 +16,7 @@ Then beat in remaining flour.
 If necessary, cover and chill dough till easy to handle.
 Place ping-pong sized dough balls 2 inches apart on an ungreased cookie sheet.
 
-Flatten by crisscrossing with the tines of a fork. (Dip fork in sugar so that it won’t stick to cookie dough.)
+Flatten by crisscrossing with the tines of a fork. (Dip fork in sugar so that it wont stick to cookie dough.)
 Bake in 375 F oven for 7 to 9 minutes or until bottoms are lightly browned.
 Cool cookies on a wire rack.
 

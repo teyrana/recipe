@@ -1,4 +1,4 @@
-Sadie’s kale salad
+Sadies kale salad
 
 Serves: 4-6
 

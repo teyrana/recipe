@@ -30,7 +30,7 @@ chicken enchiladas (see other recipe)
 ## Sauce Directions:
 1. Remove the stems and seeds from dried peppers. Transfer to a glass bowl, cover with water and cook in the microwave for 6 to 7 minutes, stirring once during cooking time. Remove from microwave, cover and let stand for 10 to 15 minutes.
 
-2. Meanwhile, heat 2 tablespoons oil in heavy large saucepan over medium-high heat. Add onions and saut� until golden brown, about 18 minutes. Reduce heat to medium. Add almonds, garlic, cumin, cinnamon, and coriander. Saut� until nuts and garlic begin to color, about 2 minutes. Add chiles and stir until beginning to soften, about 2 minutes.
+2. Meanwhile, heat 2 tablespoons oil in heavy large saucepan over medium-high heat. Add onions and saut until golden brown, about 18 minutes. Reduce heat to medium. Add almonds, garlic, cumin, cinnamon, and coriander. Saut until nuts and garlic begin to color, about 2 minutes. Add chiles and stir until beginning to soften, about 2 minutes.
 
 3. Drain all of the liquid from the dried peppers, add them to the pan, along with 4 cups of broth and all of the remaining ingredients, minus the Mexican chocolate. Bring to a boil, reduce heat and cook for 5 to 6 minutes. Remove pan from heat, and transfer the mixture to a blender or high capacity processor. Blend on high until smooth. Be extremely careful when blending hot liquids. Always secure top of blender using a towel, use your hand to hold down lid tightly. Now at this point you can strain the sauce through a wire mesh strainer into a larger bowl, for a really smooth sauce. I have skipped this step a couple of times, but I would say that the strained sauce is my favorite version.
 

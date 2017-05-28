@@ -32,6 +32,6 @@ Cooking time: ?
 6. Add the pumpkin, carrot, and apple, and cover with the chicken stock.
     Add the cumin, thyme, sage, paprika, cayenne pepper and season with salt and pepper to taste.
     Bring the soup to a boil, then lower the heat to medium and let it simmer 30 to 40 minutes or until the vegetables are soft.
-    Using a food processor, process in batches to the consistency of a pur�e.
+    Using a food processor, process in batches to the consistency of a pure.
     Bring the soup back to the saucepan. Add the coconut milk, combine and season again with salt and pepper to taste. Warm up the soup again a little bit.
     Add a pinch of cinnamon over top before serving.

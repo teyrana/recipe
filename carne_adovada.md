@@ -20,7 +20,7 @@ Ingredients:
 - 6cups water or broth
 
 Preparation:
-1.Preheat oven to 350�F.
+1.Preheat oven to 350F.
 2.Heat a large pot over medium heat. Once the pot is hot, add the oil. When the oil is hot, add the pork pieces to brown them. Add only enough pork so the pieces are in a single layer and don't touch each other; you will likely need to do this in batches. The pork should sizzle the second it touches the pot; if it doesn't, remove it and wait for the pot to heat up. Cook the pork, undisturbed, until each piece is well-browned on one side, about 3 minutes. Turn and brown on all sides. Transfer the pork to a large bowl or plate and repeat with remaining batches as needed.
 3.When all the pork is browned and set aside, add the onions, garlic, and salt to the pot. Cook, stirring frequently, until the onions are soft, about 3 minutes. Sprinkle the onions with masa or flour and pepper and cook, stirring, until the raw flavor of the masa or flour cooks off (if you use flour it will smell a bit like pie crust), about 3 minutes.
 4.Add the ground chile and stir to combine. Add 4 cups of water and bring to a boil.

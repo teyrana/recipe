@@ -2,7 +2,7 @@ Kung Pao Chicken (Gong Bao Ji Ding)
 
 Serves 4
 
-- 23 lb chicken (boneless, 1” cubes)
+- 23 lb chicken (boneless, 1 cubes)
 - 5cl garlic minced
 ginger (equal to garlic)
 - 2T peanut oil

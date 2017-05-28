@@ -19,7 +19,7 @@ Servings: 12 servings / 1 med size loaf
 - 2 3/4 cups whole wheat flour
 
 ## Directions:
-1. Grease a deep metal or glass bowl or 1 lb coffee can (we use a glass 18 cm Pyrex soufflé dish); turn slow-cooker on high to preheat.
+1. Grease a deep metal or glass bowl or 1 lb coffee can (we use a glass 18 cm Pyrex souffl dish); turn slow-cooker on high to preheat.
 2. Dissolve yeast in water; combine with milk, oats, salt, oil, honey, egg, and wheat germ.
 3. Add flour and knead until smooth and elastic, about 5 minutes.
 4. Turn dough immediately into bowl or can; cover LOOSELY with foil.

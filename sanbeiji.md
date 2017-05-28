@@ -20,5 +20,5 @@
 
 [optional]
 4. [Then remove the cover and turn up the heat to rapidly reduce the sauce for a few minutes until it clings to the chicken and gives it a rich, dark color. Make sure to stir the chicken during this process to prevent burning.]
-5. Throw in your Thai basil and fry another couple minutes until it’s wilted.
+5. Throw in your Thai basil and fry another couple minutes until its wilted.
 6. Plate and serve!

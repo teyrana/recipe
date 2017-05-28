@@ -6,7 +6,7 @@ Total Time  2hrs 15mins
 
 Yield: 6 quarts
 
-    1⁄4 cup olive oil
+    14 cup olive oil
 - 8ounces cremini mushrooms, halved and sliced
 - 2medium carrots, finely diced
 - 2celery ribs, finely diced
@@ -16,7 +16,7 @@ Yield: 6 quarts
 - 2teaspoons fresh sage leaves, chopped
 - 1teaspoon fresh rosemary leaf, chopped
 - 4garlic cloves, minced
-- 21⁄2 quarts filtered water
+- 212 quarts filtered water
 - 3tablespoons low sodium soy sauce
     one piece parmesan rind (2x2 inch)
 - 7ounces butternut squash, cubed

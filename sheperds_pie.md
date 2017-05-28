@@ -24,7 +24,7 @@ Ready In    1h 35m
 - 1tablespoon butter
 - 1pinch ground cayenne pepper
 - 14 cup cream cheese
-- 14 pound Irish cheese (such as Dubliner®), shredded
+- 14 pound Irish cheese (such as Dubliner), shredded
     salt and ground black pepper to taste
 - 1egg yolk
 - 2tablespoons milk
