@@ -7,7 +7,7 @@ Prep Time: 15 Minutes
 Cook Time: 20 Minutes
 Ready in: 35 Minutes
 
-## Ingredients
+## Ingredients:
 - 1 teaspoon olive oil
 - 1 cup chopped onion
 - 4 cloves garlic, minced
@@ -23,7 +23,7 @@ Ready in: 35 Minutes
 - 2 tablespoons chopped fresh parsley
 
 
-## Directions     
+## Directions:
 - 1 Heat oil in a large skillet or saucepan over medium heat. Saute onion and garlic in oil for 5 minutes.
 - 2 Stir in wine, sugar, basil, red pepper, tomato paste, lemon juice, Italian seasoning, black pepper and tomatoes; bring to a boil. Reduce heat to medium, and simmer uncovered about 15 minutes.
 - 3 Stir in parsley. Ladle over the hot cooked pasta of your choice.

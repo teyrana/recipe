@@ -1,6 +1,6 @@
 # Barbecue Sauce - Dry Rub
 
-## Ingredients
+## Ingredients:
 - 1t (15g) Salt
 - 1t (15g) Br Sugar
 - 1t (9g) Cumin

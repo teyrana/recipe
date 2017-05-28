@@ -6,7 +6,7 @@ Ready In: 1h 20m
  
 - 8servings
  
-Ingredients
+Ingredients:
 
 - 1butternut squash, halved and seeded
 - 1acorn squash, halved and seeded
@@ -21,7 +21,7 @@ Ingredients
     * fresh parsley, for garnish
 -marjoram
 
-Directions
+## Directions:
 
    1. Preheat oven to 350 degrees F (175 degrees C). Place the squash halves cut side down in a baking dish. Bake 45 minutes, or until tender. Remove from heat, and cool slightly. Scoop the pulp from the skins. Discard skins.
    2. saute the onion until tender.

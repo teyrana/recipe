@@ -3,7 +3,7 @@ To Prep    0:05
 To Cook    0:20
 SERVINGS   12
 
-INGREDIENTS
+Ingredients:
 - 2onion, finely chopped
        Butter / oil for saute
 - 10garlic cloves

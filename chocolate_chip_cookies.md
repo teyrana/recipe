@@ -7,7 +7,7 @@ ACTIVE TIME: 30m
 TOTAL TIME: 1d
 
 
-Ingredients
+Ingredients:
 8 ounces (2 sticks) unsalted butter
 1 standard ice cube (about 2 tablespoons frozen water)
 10 ounces (about 2 cups) all-purpose flour

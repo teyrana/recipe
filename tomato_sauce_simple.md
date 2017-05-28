@@ -1,7 +1,7 @@
  Chunky Marinara Sauce
 
 
-INGREDIENTS
+Ingredients:
 - 1tablespoon olive oil
 - 1onion, chopped
 - 1clove garlic, chopped
@@ -17,7 +17,7 @@ INGREDIENTS
     * Customize Recipe
     * add a personal note Add a Personal Note
 
-DIRECTIONS
+## Directions:
 
    1. Heat olive oil in a saucepan over medium-high heat. Add onion and garlic and cook 2 to 4 minutes until crisp-tender, stirring frequently.
    2. Mix in diced tomatoes, tomato sauce, sugar, oregano and salt. Bring to a boil. Reduce heat to low and simmer 15 to 20 minutes or until flavors are blended, stirring frequently.

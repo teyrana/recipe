@@ -8,7 +8,7 @@ READY IN  	45 Min
 
 	
 US	METRIC
-INGREDIENTS
+Ingredients:
 
 - 1cup all-purpose flour
 - 13 cup quick cooking oats
@@ -21,7 +21,7 @@ INGREDIENTS
 - 1teaspoon vanilla extract
 - 13 cup milk
 
-DIRECTIONS
+## Directions:
 
    1. Heat a lightly oiled griddle over medium-low heat.
    2. In a bowl, mix the flour, oats, baking powder, baking soda, and cinnamon. In a separate bowl, mix applesauce, sour cream, egg, and vanilla. Stir applesauce mixture and milk into the flour mixture until evenly moist and thick.

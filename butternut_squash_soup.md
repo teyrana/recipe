@@ -6,7 +6,7 @@ Ready In: 1 Hr
 
 6 servings
 
-## Ingredients
+## Ingredients:
 - 2 tablespoons butter
 - 1 onion, diced
 - 3/4 cup diced carrots (cut fine/blended)
@@ -20,7 +20,7 @@ Ready In: 1 Hr
     [2 stalk celery]
 
 
-## Directions
+## Directions:
 1. Preheat oven to 350 degrees F (175 degrees C).
 2. Place squash, cut sides down, in a 9x13 baking dish. Pour water into dish around squash halves.
 3. Bake in the preheated oven until tender and easily pierced with a fork, about 1 1/2 hours. Carefully remove the skin with a fork; it should be very easy to remove.

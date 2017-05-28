@@ -16,7 +16,7 @@ Cook Time: 30 minutes
 - 2egg
 - 3teaspoons vanilla extract
 
-## DIRECTIONS
+## Directions:
 1. Grease cooking pan.
 2. In a bowl, combine the flour, cornmeal, sugar, baking powder, baking soda and salt. In another bowl, combine the remaining ingredients; stir into dry ingredients just until moistened.
 3. Pour into a greased 9-in. ovenproof skillet. Bake at 350 degrees F for 35 minutes or until a toothpick inserted near the center comes out clean. Cut into wedges; serve warm.

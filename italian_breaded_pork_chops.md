@@ -7,7 +7,7 @@ Ready In:  1 Hr
 
 Original Recipe Yield 4 servings
  
-Ingredients
+Ingredients:
 
 - 3eggs, lightly beaten
 - 3tablespoons milk
@@ -18,7 +18,7 @@ Ingredients
 - 4cloves garlic, peeled and chopped
 - 4pork chops
 
-Directions
+## Directions:
 
     Preheat oven to 325 degrees F (165 degrees C).
     In a small bowl, beat together the eggs and milk. In a separate small bowl, mix the bread crumbs, Parmesan cheese, and parsley.

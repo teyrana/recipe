@@ -19,5 +19,5 @@ parsley
 - 1dash hot pepper sauce, or to taste
 salt and ground black pepper to taste
 
-Directions:
+## Directions:
 1. Stir mango, avocado, tomato, red onion, red pepper, parsley, canola oil, brown sugar, lime juice, cider vinegar, hot pepper sauce, salt, and ground black pepper together in a bowl. Refrigerate salsa for at least 1 hour.

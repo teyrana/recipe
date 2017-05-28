@@ -2,7 +2,7 @@
 
 (Chinese Barbecue)
 
-## Ingredients
+## Ingredients:
 - 2t Five Spice
 - 2T Shoyu Soy Sauce
 - 2T Hoisin Sauce

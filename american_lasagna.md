@@ -2,7 +2,7 @@
 
 Yields 8 servings.
 
-## Ingredients
+## Ingredients:
 - 2 pounds lean ground beef
 - 2 onion, chopped
 - 3 cloves garlic, minced

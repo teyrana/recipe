@@ -24,7 +24,7 @@ Worlds Best Lasagna
 - 34 pound mozzarella cheese, sliced
 - 34 cup grated Parmesan cheese
 
-Directions
+## Directions:
 
 1. In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned.
 2. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.

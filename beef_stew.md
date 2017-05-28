@@ -3,7 +3,7 @@
 20m prep
 2hr cook
 
-## Ingredients
+## Ingredients:
 - 2 pounds cubed beef stew meat
 - 3 tablespoons vegetable oil
 - 4 cups water
@@ -17,7 +17,7 @@
 - 2 teaspoons cornstarch
 - 2 teaspoons cold water
 
-## Directions
+## Directions:
 1. In a large pot or dutch oven, cook beef in oil over medium heat until brown.
 2. 1 1/2 hours later, add carrots, onions.
 3. Stir in rosemary, parsley and pepper. Bring to a boil, then reduce heat, cover and simmer 1 hour.

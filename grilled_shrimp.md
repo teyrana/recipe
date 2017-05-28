@@ -6,7 +6,7 @@ TOTAL TIME  20 mins
 PREP 10 MINS
 COOK 6 MINS (per batch)
 
-INGREDIENTS 
+Ingredients 
 - 2lbs extra large shrimp, peeled deveined
 - 13 tablespoons olive oil
 - 1teaspoon black pepper
@@ -23,7 +23,7 @@ INGREDIENTS
 
 
 
-DIRECTIONS
+## Directions:
 
 Preheat griddle or grill pan over high heat.
 

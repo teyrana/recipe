@@ -7,7 +7,7 @@ Ready In:1 Hr
 
 Original Recipe Yield 5 dozen
 
-Ingredients
+Ingredients:
 
 - 1cup white sugar
 - 2teaspoons ground ginger
@@ -22,7 +22,7 @@ Ingredients
 - 34 teaspoon lemon extract
 - 4cups unbleached all-purpose flour 
 
-Directions
+## Directions:
 
 1) Preheat oven to 375 degrees F (190 degrees C). Lightly grease cookie sheets.
 2) In a large bowl, stir together the sugar, ginger, nutmeg, cinnamon, salt, and baking soda. Mix in the melted margarine, evaporated milk, molasses, vanilla, and lemon extracts. Stir in the flour, 1 cup at a time, mixing well after each addition. The dough should be stiff enough to handle without sticking to fingers. If necessary, increase flour by up to 1/2 cup to prevent sticking.

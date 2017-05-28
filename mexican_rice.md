@@ -15,7 +15,7 @@ Ingredients:
 Chopped cilantro, optional
 Olive oil or canola oil
 
-Directions:
+## Directions:
 
 1. In a large pan, heat 3 tablespoons of oil to medium heat, add the rice and saute for a few minutes until the rice becomes aromatic and slightly opaque. Add the onions and the garlic and cook for just 1 minute. Add all the dry spices and stir well to combine. Add the tomato sauce and broth, stir well and taste for salt. Bring to a boil, reduce heat to low, cover and cook for 10 minutes without disturbing the rice.
 

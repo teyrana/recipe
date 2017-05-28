@@ -18,7 +18,7 @@ makes 12 servings
 - 1teaspoon ground cinnamon
 - 12 teaspoon ground nutmeg
 
-Directions
+## Directions:
 
 In a medium saucepan, boil water and sugar until the sugar dissolves. Reduce the heat to simmer, and stir in cranberries, pureed orange, apple, pear, dried fruit, pecans, salt, cinnamon, and nutmeg. Cover, and simmer for 30 minutes, stirring occasionally, until the cranberries burst. Remove from heat, and let cool to room temperature.
 Kitchen-Friendly View

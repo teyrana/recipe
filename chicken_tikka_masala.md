@@ -6,7 +6,7 @@ Inactive: 30 min
 Cook: 35 min
 Yield: 4 to 6 servings
 
-Ingredients
+Ingredients:
 
 Marinade:
 - 1cup plain yogurt, whisked until smooth
@@ -38,7 +38,7 @@ Ginger-Garlic Paste:
 - 14 cup canola oil
 
 
-Directions
+## Directions:
 
 Sauce:
 For the marinade: In a large bowl, mix together the marinade ingredients. Add the chicken and toss to coat. Marinate at least 30 minutes, or in the refrigerator up to overnight.

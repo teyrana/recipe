@@ -6,7 +6,7 @@ READY IN  	30 Min
 
 SERVINGS 10
 
-## Ingredients
+## Ingredients:
 
 - 1 teaspoon olive oil
 - 1 onion, chopped
@@ -18,7 +18,7 @@ SERVINGS 10
 - ? cups dry black beans
 
 
-DIRECTIONS
+## Directions:
 1. Clean and sort Black Beans
 2. Cover your beans with water and leave them to sit for about 4 hours
 3. Drain off the water you used to soak the beans and add cold water back to them. Use a ratio of 1:3, so if you have 2 cups of beans, use 6 cups of water.

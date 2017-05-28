@@ -6,7 +6,7 @@ COOK TIME  	30 Min
 READY IN  	35 Min
 Servings: 4
 
-## Ingredients
+## Ingredients:
 - 8medium red potatoes, cubed
 - 5-6 cloves garlic
 - 12 cup butter or margarine
@@ -14,7 +14,7 @@ Servings: 4
 - 14 teaspoon steak seasoning
 - thyme/salt/rosemary/fennel
 
-## Directions
+## Directions:
 1. Place the potatoes into a large pot, and fill with enough water to cover.
 2. Add 1 teaspoon of the crushed garlic to the water for flavor.
 3. Bring to a boil, and cook for about 10 minutes, or until easily pierced with a fork.

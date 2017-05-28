@@ -2,7 +2,7 @@
 
 	Makes 2 loaves (9"x5"x3")
 
-## Ingredients
+## Ingredients:
 - 2 pkg active dry yeast
 - 1/2 C warm water (110-115 F)
 - 1 3/4 C lukewarm milk  ( /water / potato water)

@@ -1,5 +1,5 @@
 Potato Salad, Mustard
- INGREDIENTS (Nutrition)
+ Ingredients (Nutrition)
 
 Serves: 8
 
@@ -17,7 +17,7 @@ ground black pepper to taste
 [1/2 cup sweet pickle relish]
 
 
-DIRECTIONS
+## Directions:
 
    1. Place the potatoes in a pot with enough water to cover, and bring to a boil. Cook for about 20 minutes, or until tender. Drain and cool.
    2. Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.

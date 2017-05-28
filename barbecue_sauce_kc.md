@@ -1,6 +1,6 @@
 # Barbecue Sauce - KC Style
 
-## Ingredients
+## Ingredients:
 - 1 cup ketchup
 - 1/2 cup water
 - 1/4 cup apple cider vinegar

@@ -25,7 +25,7 @@ Yield: 6 quarts
 - 2tablespoons red wine vinegar
     shaved parmesan cheese, for serving
 
-Directions
+## Directions:
 
     Place 2 tablespoons of the olive oil into an 8-quart stockpot over high heat until the oil shimmers. Add the mushrooms and saute until browned, about 5 minutes. Remove the mushrooms from the pan and set aside.
     Decrease the heat to low, add the remaining 2 tablespoons olive oil and the carrots, celery, onions and salt. Cook, stirring occasionally, until softened, about 30 minutes.

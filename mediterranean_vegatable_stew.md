@@ -2,7 +2,7 @@ Mediterranean Vegetable Stew
 
 	"A Mediterranean diet has been shown to relieve arthritis pain. Serve over polenta, rice or pasta."  Original recipe yield: 6 generous servings.
 
-INGREDIENTS:
+Ingredients:
 
 - 2tablespoons olive oil, divided
 - 1cup chopped red onion
@@ -16,6 +16,6 @@ INGREDIENTS:
 - 1tablespoon chopped fresh rosemary
 - 1cup coarsely chopped parsley
 
-DIRECTIONS:
+## Directions::
 
    1. In a large skillet, heat 1 Tb. oil. Saute onion and pepper until soft, about 10 minutes. Add 1 Tb. oil, garlic, mushrooms and eggplant. Simmer, stirring occasionally, until eggplant is softened but not mushy, about 15 minutes. Add tomatoes, olives, chickpeas and rosemary. Simmer until heated through, about 10 minutes. Stir in parsley. Sprinkle feta cheese over stew if desired.

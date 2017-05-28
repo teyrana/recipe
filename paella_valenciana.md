@@ -8,7 +8,7 @@ Ready In: 2 Hrs
 
 Yield 4 servings
  
-Ingredients
+Ingredients:
 
 - 1tablespoon olive oil
 ? pick 4-6 lb of:
@@ -37,7 +37,7 @@ Ingredients
 [lemon, to serve]
 
 
-Directions
+## Directions:
 
 Rub the spice mix all over the chicken and marinate chicken for 1 hour in the refrigerator.
 

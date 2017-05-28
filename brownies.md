@@ -1,6 +1,6 @@
 # Brownies
 
-## Ingredients
+## Ingredients:
 - 1/2 C butter, melted
 - 1 C sugar (white/packed brown)
 - 1 t vanilla extract
@@ -11,7 +11,7 @@
 pinch salt
 - 1/2 C chopped walnut
 
-## Directions
+## Directions:
 1) preheat oven to 350 deg. Grease a 9x9 pan
 2) mix butter, sugar, and vanilla. beat in egggs.
 3) separately, mix flour, cocoa, baking powder and salt.  Blend gradually into egg mixture.

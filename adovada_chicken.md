@@ -7,7 +7,7 @@
 - Equipment:
   -- Large Dutch Oven
 
-## Ingredients
+## Ingredients:
 - 4 whole dried ancho chilies, seeds and stems removed
 - 4 whole dried pasilla chilies, seeds and stems removed
 - 1 quart (32 ounces) homemade or store-bought low-sodium chicken stock

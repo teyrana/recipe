@@ -1,8 +1,7 @@
-While Chili
+# White Chili
 
- 
-Ingredients
 
+## Ingredients:
 - 1rotisseire chicken (deboned, chopped)
 - 2onion (diced)
 - 6cl garlic, minced
@@ -16,6 +15,7 @@ Ingredients
   salt, pepper to taste
   Avacodo
 
+## Directions:
 1. cook onion, garlic until translucent.
 2. Add remaining ingredients, and simmer for 2 hrs, stirring often.
 3. serve w/ Avocado

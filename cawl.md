@@ -13,7 +13,7 @@ Cook Time:2 Hrs
 Ready In:1 Day 3 Hrs
 Serves: 12
 
-Ingredients
+Ingredients:
 - 2 quarts water
 - 12 ounces beef shank
 - 2 large onions, chopped
@@ -25,7 +25,7 @@ Ingredients
 - 1 small head cabbage, sliced
 - 2 tablespoons chopped fresh parsley
 
-Directions
+## Directions:
 1. Bring water to boil in a large pot. Place beef shank in, and simmer 1 1/2 hours. Let cool overnight. Lift meat out, trim off gristle and cut meat into medium sized pieces; set aside. Skim fat from surface of stock, or strain through a fine sieve.
 2. Return stock to heat, and bring to a boil. Add onions, carrots and rutabaga. Season with salt and pepper. Simmer for 1 hour. Add potatoes, and simmer until tender, 15 to 20 minutes.
 3. Stir in the leeks, cabbage, parsley and reserved meat. Simmer 10 minutes, or until cabbage is tender.

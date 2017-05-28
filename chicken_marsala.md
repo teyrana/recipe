@@ -6,7 +6,7 @@ Cook            20 min
 
 Yield:    4 servings 
 
-Ingredients
+Ingredients:
 - 12 cup all-purpose flour
 - 1tablespoon Essence, recipe follows
 - 2(6 to 8-ounce) boneless, skinless chicken breasts, cut in halves and pounded thin
@@ -18,7 +18,7 @@ Ingredients
     Salt and freshly ground black pepper
     Chopped chives, for garnish
 
-Directions
+## Directions:
 
 In a shallow bowl or plate combine the flour and Essence and stir to combine thoroughly. Quickly dredge the chicken breast halves in the seasoned flour mixture, shaking to remove any excess flour.
 

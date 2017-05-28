@@ -19,7 +19,7 @@ Fresh leaves of basil (optional)
 - 1T. Flour to coat (in bag with cheese)
 Salt and pepper to taste
 
-Directions:
+## Directions:
 Cook angel hair pasta. Drain, then toss with olive oil. Put pasta in large serving dish and keep warm.
 In large pot, saute garlic, onions, jalapenos, and rosemary with the butter for one minute. Add wine and mussels. Turn heat to high and steam for 3 minutes until shells open.
 Remove mussels with slotted spoon and arrange in shells over pasta. Keep warm.

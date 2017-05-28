@@ -1,6 +1,6 @@
  Fall Harvest Soup
 
-INGREDIENTS
+Ingredients:
 - 1(29 ounce) can solid-pack pumpkin (not pumpkin pie filling)\
 ( 1 C heavy cream
 - 1cup 2% low-fat milk
@@ -17,6 +17,6 @@ salt and pepper to taste
 - 11/4 tablespoons ground nutmeg
 - 1teaspoon ground black pepper
 
-DIRECTIONS
+## Directions:
 Combine the pumpkin and creamed corn in a blender; pulse to puree the mixture for 1 minute or until smooth. Add the milk and continue to pulse the mixture for another minute, or until well combined. Pour pumpkin mixture into a 3 to 4 quart saucepan over medium heat.
 Immediately stir in the broth, apple cider, water, butter, and ground mace. Heat for 15 minutes, stirring occasionally. Salt and pepper to taste. Add thawed corn kernels and cook for an additional 5 minutes.

@@ -6,7 +6,7 @@ READY IN  	2 Hrs 30 Min
 
 Servings 8
 
-INGREDIENTS (Nutrition)
+Ingredients (Nutrition)
 
 - 6cups cubed pumpkin bread
 - 1cup chopped celery
@@ -21,7 +21,7 @@ INGREDIENTS (Nutrition)
 - 1teaspoon ground black pepper
 - 6tablespoons chicken broth
 
-DIRECTIONS
+## Directions:
 
    1. Spread bread cubes on a baking sheet, and let dry overnight. Alternatively, heat in a 250 degrees F (120 degrees C) oven until dry, about 1 hour.
    2. Preheat oven to 375 degrees F (190 degrees C). Butter a 2 quart baking dish.

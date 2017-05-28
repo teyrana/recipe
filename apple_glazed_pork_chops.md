@@ -2,7 +2,7 @@
 
 Servings: 4
 
-## Ingredients
+## Ingredients:
 
 - 4 boneless pork chops, 3/4-inch thick
 - 1/4 teaspoon freshly ground pepper

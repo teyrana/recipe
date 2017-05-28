@@ -9,7 +9,7 @@ Can be prepared in 45 minutes or less.
 - 14 teaspoon salt
 - 34 pound boneless sirloin, cut across the grain into 1/4-inch-thick slices
 
-## Ingedients -- Sauce
+## Ingedients - Sauce
 - 1tablespoon cornstarch
 - 1tablespoon soy sauce
 - 1tablespoon medium-dry Sherry or Scotch
@@ -24,11 +24,11 @@ Can be prepared in 45 minutes or less.
 - 1pound broccoli, cut into flowerets and the stems peeled and cut into 1/2-inch-thick
 - cooked rice
 - [optional]
-  -- Carrots
-  -- Water chestnuts
-  -- Bamboo Shoots
-  -- Beans - (Green, lima bean?)
-  -- Peas (snow, or other: with pod)
+  - Carrots
+  - Water chestnuts
+  - Bamboo Shoots
+  - Beans - (Green, lima bean?)
+  - Peas (snow, or other: with pod)
 
 ## Directions:
 

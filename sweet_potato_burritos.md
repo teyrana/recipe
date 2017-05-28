@@ -13,7 +13,7 @@ EADY IN  	50 Min
 
 Yield: 12 burritos
 
-## Ingredients
+## Ingredients:
 - 1tablespoon vegetable oil
 - 1onion, chopped
 - 4cloves garlic, minced
@@ -28,7 +28,7 @@ Yield: 12 burritos
 - 12(10 inch) flour tortillas, warmed
 - 8ounces shredded Cheddar cheese
 
-## DIRECTIONS
+## Directions:
 1. Preheat oven to 350 degrees F (175 degrees C).
 2. Heat oil in a medium skillet, and saute onion and garlic until soft. Stir in beans, and mash. Gradually stir in water, and heat until warm. Remove from heat, and stir in the chili powder, cumin, mustard, cayenne pepper and soy sauce.
 3. Divide bean mixture and mashed sweet potatoes evenly between the warm flour tortillas. Top with cheese. Fold up tortillas burrito style, and place on a baking sheet.

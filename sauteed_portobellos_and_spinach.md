@@ -12,7 +12,7 @@ Sauteed Portobellos and Spinach
 - 2tablespoons dry red wine
 - 14 cup grated Parmesan cheese
 
-Directions
+## Directions:
 
 1. Melt butter in a large skillet or saute pan over medium heat. Saute mushrooms, spinach, basil, salt, pepper and garlic until mushrooms are tender and spinach is heated through.
 

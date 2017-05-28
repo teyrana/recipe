@@ -2,7 +2,7 @@
 
 Serves 6:
 
-## INGREDIENTS
+## Ingredients:
 - 2 1/4 cups dried split peas
 - 2quarts cold water
 - 1 1/2 pounds ham bone
@@ -18,7 +18,7 @@ Serves 6:
 - [2 cl garlic]
 - [3 bay leaves]
 
-## Directions
+## Directions:
 
    1. In a large stock pot, cover peas with 2 quarts cold water and soak overnight. If you need a faster method, simmer the peas gently for 2 minutes, and then soak for l hour.
    2. Once peas are soaked, add ham bone, onion, salt, pepper and marjoram. Cover, bring to boil and then simmer for 1 1/2 hours, stirring occasionally.

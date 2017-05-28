@@ -30,7 +30,7 @@ Ready In    1h 35m
 - 2tablespoons milk
 
 
-Directions
+## Directions:
 
 1. Preheat the oven to 375 degrees F (190 degrees C).
 2. Place olive oil and butter in Dutch oven over medium heat. Stir in onion and ground lamb; brown the meat, breaking it up into small crumbles as it cooks, about 10 minutes.

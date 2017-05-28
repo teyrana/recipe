@@ -2,7 +2,7 @@ Italian Potato Salad
 
 Yield: 6 servings
 
-INGREDIENTS:
+Ingredients:
 
       For the dressing
 
@@ -26,7 +26,7 @@ INGREDIENTS:
 
 
 
-DIRECTIONS:
+## Directions::
 
    1. In a small mixing bowl, combine dressing ingredients and set aside.
    2. Chop potatoes into 1-inch cubes. In a large pot of boiling water, boil potatoes until tender, about 7 - 9 minutes. Drain potatoes well. Transfer potatoes to a large mixing bowl. Combine balsamic vinegar and broth in a cup; drizzle over potatoes.
