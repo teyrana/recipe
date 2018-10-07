@@ -11,7 +11,6 @@ Ready In: 1 Hr
 - 1 onion, diced
 - 3/4 cup diced carrots (cut fine/blended)
 - 2 teaspoons grated fresh ginger
-- 1 jalapeno pepper [1 t cayenne pepper powder)
 - 1 (2 pound) butternut squash - peeled, seeded, and cubed
 - 15 oz vegetable broth
 - 1/2 cup heavy cream
@@ -26,9 +25,7 @@ Ready In: 1 Hr
 3. Bake in the preheated oven until tender and easily pierced with a fork, about 1 1/2 hours. Carefully remove the skin with a fork; it should be very easy to remove.
 
 
-1. Melt the butter in a large pot over medium heat.
-2. Stir in the onion, ginger, and jalapeno pepper.
-3. Cook and stir until the onion has softened and turned translucent, about 7 minutes.
+1. Saute onion, garlic and, ginger, 
 
 Reduce heat to medium-low, cover, and simmer until the squash is tender, about 30 minutes.
 Stir in the milk, salt and pepper.
