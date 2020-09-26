@@ -1,3 +1,0 @@
-Butternut squash with black beans
-THIS DOES NOT WORK.
-## Ingredients- 1 t vegetable oil- 1 sm. onion, diced- 1 small butternut squash, peeled, seeded, and cut into 1/2 " chunks- 1/4 t garlic powder- 1/4 c red wine vinegar- 1/4 c water- 2, 16-oz. cans black beans, rinsed and drained- 1/2 t oregano## Directions     In a large saucepan or Dutch oven, heat oil over med. .  Add onion, squash, and garlic.  Saute for 5 min., or until the onion becomes tender.     Add vinegar and water, then cover and cook 10 min.  Check squash; if not tender, continue cooking, add water if necessary.Stir in beans and oregano, then cook until heated through.

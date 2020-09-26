@@ -1,12 +1,11 @@
-Stuffing
+# Stuffing
 
-PREP TIME  	1 Hr 30 Min
-COOK TIME  	1 Hr
-READY IN  	2 Hrs 30 Min
-
+Prep Time: 1 Hr 30 Min
+Cook Time: 1 Hr
+Total Time: 2 Hrs 30 Min
 Servings: 20 lb turkey
 
-# Ingredients:
+## Ingredients:
 - 400g / 14 oz cubed bread
 - 1.5 C water
 - 1cup chopped celery
@@ -22,7 +21,7 @@ Servings: 20 lb turkey
 - [1 C walnuts / chestnuts]    
 - [1 C chopped cranberries]
 
-# Directions:
+## Directions:
 1. Spread bread cubes on a baking sheet, and let dry overnight. Alternatively, heat in a 250 degrees F (120 degrees C) oven until dry, about 1 hour.
 2. Preheat oven to 375 degrees F (190 degrees C). Butter a 2 quart baking dish.
 3. Melt butter in a large skillet over medium heat. Saute celery and onions for about 10 minutes. Add mushrooms, and continue cooking for about 8 minutes, or until tender. Season with rosemary, tarragon, chives, parsley, salt, and pepper. Fold in bread cubes, and add enough broth to moisten. Transfer to prepared dish, and cover with foil.
