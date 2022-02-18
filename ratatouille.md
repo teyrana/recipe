@@ -9,8 +9,8 @@
 - 2 zucchini, cubed
 - 2 medium yellow squash, cubed
 - 4 roma (plum) tomatoes, chopped
-- 12 cup olive oil
-- 1bay leaf
+- 1/2 cup olive oil
+- 1 bay leaf
 - [2 tablespoons chopped fresh parsley]
 - 4 sprigs fresh thyme
 - salt and pepper to taste
