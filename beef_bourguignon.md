@@ -17,9 +17,8 @@
 - 2 T flour
 - 4x White onions, diced
 - 3 C red wine like Merlot, Pinot Noir, or a Chianti
-- 2 C beef stock (if using 2 cups of wine, use 3 cups beef stock)
+- 2 C (4cube) beef stock
 - 2 T tomato paste
-- 1 beef bouillon cube crushed
 - 1 t fresh thyme finely chopped
 - 2 T fresh parsley finely chopped, divided
 - 2 bay leaves
