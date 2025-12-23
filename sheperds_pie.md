@@ -11,18 +11,23 @@ Ready In    1h 35m
 - 1 T butter
 - 2 lbs Yukon Gold potatoes, chopped 6-8 medium potatoes
 
+### [Primary] Beef filling
+- 2 lb lean ground beef | lamb
+- salt and ground black pepper to taste
+
+### [alternate] Lamb Marinade filling
+- 1 lbs lamb loin or shoulder **see notes
+- 2 T worcestershire sauce
+- 1/2 t salt
+- 1 t ground black pepper
 
 ### Stuffing Ingredients
 - 1 onion, diced
-- 2 lb lean ground beef | lamb
-- salt and ground black pepper to taste
+- 3 cl garlic, minced
 - 2 t minced fresh rosemary
 - 1 t paprika
-- 1/8 teaspoon ground cinnamon
-- 1 t salt
+- 1/2 t salt
 - 1/4 t ground pepper
-- 1 T Worcestershire
-- 3 cl garlic, minced
 - 12 oz peas and carrots, diced
 - 1 T butter
 
