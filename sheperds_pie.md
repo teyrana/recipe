@@ -9,6 +9,7 @@ Ready In    1h 35m
 ### Mashed Potato Ingredients
 
 - 1 T butter
+- 2 pounds potatoes, peeled and halved
 
 
 ### Stuffing Ingredients
@@ -20,10 +21,8 @@ Ready In    1h 35m
 - 1/8 teaspoon ground cinnamon
 - 1 T ketchup
 - 3 cl garlic, minced
-
-??    2.5 cups water, or as needed
 - 12 oz peas and carrots, diced
-- 2.5 pounds potatoes, peeled and halved
+
 - 1 T butter
 - 1 pinch ground cayenne pepper
 - 1/4 pound Irish cheese (such as Dubliner), shredded
