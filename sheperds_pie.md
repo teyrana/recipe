@@ -19,13 +19,13 @@ Ready In    1h 35m
 - 2 t minced fresh rosemary
 - 1 t paprika
 - 1/8 teaspoon ground cinnamon
-- 1 T ketchup
+- 1 t salt
+- 1/4 t ground pepper
+- 1 T Worcestershire
 - 3 cl garlic, minced
 - 12 oz peas and carrots, diced
-
 - 1 T butter
-- 1 pinch ground cayenne pepper
-- 1/4 pound Irish cheese (such as Dubliner), shredded
+- 1/4 lb Irish cheese (such as Dubliner), shredded
 - 2 T milk
 
 
