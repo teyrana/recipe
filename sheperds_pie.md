@@ -7,9 +7,9 @@ Ready In    1h 35m
 ## Ingredients
 
 ### Mashed Potato Ingredients
-
+- 2 T milk
 - 1 T butter
-- 2 pounds potatoes, peeled and halved
+- 2 lbs Yukon Gold potatoes, chopped 6-8 medium potatoes
 
 
 ### Stuffing Ingredients
@@ -25,9 +25,9 @@ Ready In    1h 35m
 - 3 cl garlic, minced
 - 12 oz peas and carrots, diced
 - 1 T butter
-- 1/4 lb Irish cheese (such as Dubliner), shredded
-- 2 T milk
 
+### Topping
+- 1/4 lb Irish cheese (such as Dubliner), shredded
 
 ## Directions:
    
