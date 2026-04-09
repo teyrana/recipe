@@ -1,25 +1,29 @@
-Lentil and chickpea Dhal
-To Prep    0:05 
-To Cook    0:20
-SERVINGS   12
+# Lentil and chickpea Dhal
 
-Ingredients:
-- 2onion, finely chopped
-       Butter / oil for saute
-- 10garlic cloves
-- 2teaspoons (1 inch) finely grated ginger
-- 2T garam masala (found in Indian stores or ethnic food section)
-    400g can (or 2 whole) diced tomatoes
-    400g can (2C) lentils, rinsed, drained
-    400g can (2C) chickpeas, rinsed, drained
-    [250ml can coconut milk]
-    [green onion]
-    Natural yogurt, to serve
-    Cucumber ribbons, to serve
+- To Prep:   5 min 
+- To Cook:  20 min
+- Servings: 12
+
+
+## Ingredients:
+
+- 2x (?g) onion, finely chopped
+- 1T Butter saute
+- 10 clove garlic
+- 2 t (1 inch) finely grated ginger
+- 2 T garam masala (found in Indian stores or ethnic food section)
+- 2x (400g) can diced tomatoes
+- 2C (400g) can lentils, rinsed, drained
+- 2C (400g) can chickpeas, rinsed, drained
+- [250ml can coconut milk]
+- [green onion]
+-    Natural yogurt, to serve
+-    Cucumber ribbons, to serve
 - 1t Turmeric (to taste)
-    water
+- 4C Water
 
-Select all ingredients
+
+## ingredients
 
 1) Heat the oil in a large saucepan over medium heat. Add the onion and ginger and cook, stirring, for 5 minutes or until onion softens. Add the curry paste and cook, stirring, for 1-2 minutes or until aromatic.
     
