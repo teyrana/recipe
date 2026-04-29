@@ -1,4 +1,4 @@
-# Healthy Chicken Marsala
+# Chicken Marsala
 
 - Active Time: 10 min
 - Cook Time:   20 min
@@ -9,9 +9,9 @@
 ## Ingredients:
 - 1 lb chicken breasts boneless and skinless
 - 2 T avocado oil
-- 2 t salt
+- 3 t salt
 - 2 t black pepper
-- 225g (8oz) sliced mushrooms
+- 500g (16oz) sliced mushrooms
    - (portabello, cremini, oyster, shiitake)
 - 6 cl, garlic minced
 - 1 C chicken stock
@@ -29,5 +29,5 @@
 4. Turn skillet to medium heat; Add 1 tablespoon of oil to a large skillet. 
 5. Once oil is hot, add cutlets. Season the top of your cutlets with salt and pepper. Sauté until each side has some browning and chicken is mostly cooked through, about 3 minutes per side. Once chicken is browned, remove from pan and aside.
 6. Add remaining tablespoon of oil to the skillet. Add the mushrooms. Sauté, stirring occasionally, for 3 to 5 minutes or until mushrooms are tender. Add the minced garlic to the skillet. Sauté until garlic is golden, about one minute.
-7. Reduce heat to medium. Add chicken stock, marsala wine or coconut aminos, thyme, and rosemary. Stir to combine. Add the chicken back to the skillet and spoon some sauce over it. Simmer uncovered for 3 to 4 minutes or until sauce is heated through. Add salt and pepper to taste. (If using coconut aminos instead of marsala wine you may find that it's already salty enough. It's just a matter of preference.)
+7. Reduce heat to medium. Add chicken stock, marsala wine, 1t salt, thyme, and rosemary. Stir to combine. Add the chicken back to the skillet and spoon some sauce over it. Simmer uncovered for 3 to 4 minutes or until sauce is heated through. Add salt and pepper to taste. (If using coconut aminos instead of marsala wine you may find that it's already salty enough. It's just a matter of preference.)
 8. To thicken the sauce, turn off heat. In a small container flour mixture and water. Shake. Pour the mixture into your gravy and stir so it’s thoroughly mixed in. You’ll notice the sauce begins to thicken immediately. Serve the chicken and sauce over pasta, mashed potatoes, or rice. 
