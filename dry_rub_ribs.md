@@ -1,31 +1,32 @@
-# Memphis Dust Recipe
+# Big Bad Beef Rub Recipe
 
-http://www.amazingribs.com/recipes/rubs_pastes_marinades_and_brines/meatheads_memphis_dust.html
+This is the perfect beef dry rub recipe, creating a rich, flavorful, crunchy crust, called the bark or Mrs. Brown on brisket, beef ribs, steak, and more.
 
+https://amazingribs.com/tested-recipes/spice-rubs-and-pastes/big-bad-beef-rub-recipe/
 
-- Yield: 2 Tbsp of dry-rub
-- Preparation time. 15 min
+- Prep Time: 10mins
+- Total Time: 10mins
+- Yield: 1/2 cup/75.7 grams
+
 
 ## Ingredients:
-- 1 Slabs of Ribs
-- 1 t brown sugar
-- 1 t white sugar
-- 1 t paprika
-- 1.5 t kosher salt
-    - 1 t per lb meat
-- 1/2 t garlic powder
-- 1/4 t ground black pepper
-- 1/4 t ground ginger powder
-- 1/4 t onion powder
-- 1/4 t rosemary powder
-
+- 3 T coarsely ground black pepper
+- 1 T granulated white sugar
+- 1 T onion powder
+- 2 t mustard powder
+- 2 t garlic powder
+- 2 t American chili or ancho powder
+- 1 t chipotle or cayenne powder
 
 ## Instructions:
 
-1. Sprinkle salt onto meat, 12 hours in advance. Salting the meat first is a must. (This process is called dry brining.) Salt will penetrate deep into meat so you should get it on in advance, preferably overnight. The general rule of thumb is 1/2 teaspoon Morton Coarse Kosher Salt per pound/453.6 grams of meat. (Don’t include bone, and ribs are about half bone).
+1. Prep. Mix the ingredients together in a bowl.
+2. If your meat has not been pre-salted, shoot for about 1/2 teaspoon of Morton Coarse Kosher Salt per pound (453.6 grams) of meat and apply it heavier on thick spots. When possible, apply the salt the day before, but even an hour or two is enough to get it moving inward, and the AmazingRibs.com science advisor Prof. Greg Blonder has shown that when the meat heats, the salt moves deeper and faster. Click here to read more about this process, called dry-brining.
+3. Using the rub. Use this rub on burgers, beef ribs, or on brisket like in this video.
+4. Storing the rub. If you are not using it immediately, store the rub in a tightly sealed bottle in a dark place. It will slowly start to decline in quality but should be fine up to a year later. Taste it first.
 
-2. Mix. Mix the ingredients thoroughly in a bowl. If the sugar is lumpy, crumble the lumps by hand or on the side of the bowl with a fork. If you store the rub in a tight jar, you can keep it for months. If it clumps just chop it up, or if you wish, spread it on a baking sheet and put it in a 225°F (107.2°C) oven for 15 minutes to drive off moisture. No hotter or the sugar can burn.
+## Notes
 
-3. The rest of the spices and herbs cannot penetrate very deep. So, the rub can go on anytime, even just before you start cooking. For most meats, dampen the surface of the meat with water and sprinkle enough Meathead's Memphis Dust on to coat, but not so much you can't see the meat below. Apply the rub thick enough to make a crunchy crust. Keep your powder dry as the old expression goes.
-
-NB: To prevent cross-contamination, one hand sprinkles on the rub and the other hand does the rubbing. Don't put the hand that is rubbing into the powder or use it to hold the bottle.
+- About the black pepper. Lately I've been grinding my black pepper and then sifting it. I use the coarse stuff, and put the fine stuff in a pepper shaker.
+- About the chile powders. I'm looking for complexity with two different flavors and two different levels of heat. Most American chili powders and ancho powders do not have a lot of heat, but good flavor. In fact, ancho is usually in a lot of American chili powders. Go with ancho if you can find it. It has a nice raisiny character. With chipotle or cayenne I'm after a kiss of heat. Chipotle has better flavor though.
+- About the salt. Remember, kosher salt is half the concentration of table salt so if you use table salt, use half as much. Click here to read more about salt and how it works.
