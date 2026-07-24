@@ -14,7 +14,7 @@
 - 2 t dried oregano
 
 ## Ingredients: Protein
-- 1 lb ground beef
+- 1 lb Protein (eg Chicken)
 - 1/2 cup water
 
 ## Directions:
